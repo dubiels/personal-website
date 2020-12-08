@@ -1,4 +1,4 @@
-# girlsinaerospace
+# karolina.mgdubiel.com
 My personal website - found at karolina.mgdubiel.com. 
 
 NOTE FROM CREATOR: 
