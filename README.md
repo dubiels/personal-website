@@ -1,3 +1,4 @@
-# www.karolina.mgdubiel.com
-My personal website - found at karolina.mgdubiel.com. 
-Site was made to practice HTML, CSS, and JS skills. Code was written in Notepad++ and uploaded using FileZilla.
+<img src="https://cdn.glitch.com/ba7e9136-d252-459d-8fd7-241dc194cc93%2Fezgif.com-video-to-gif%20(1).gif?v=1580452874152"/>
+
+# mhsgirlswhocode
+Milpitas High School's Girls Who Code Website
